@@ -52,19 +52,6 @@ Driving digital transformation in healthcare:
 
 ---
 
-## ⭐ Impact & Testimonials
-
-> “Ayot Health Solutions revolutionized our healthcare systems, enhancing data management and patient care.”  
-— **Operations Director**, Healthcare Facility  
-
-> “They transformed our workplace health strategy. Employees are healthier and more productive!”  
-— **HR Manager**, Manufacturing Company  
-
-> “Our students now have access to quality healthcare on-site. A real game changer!”  
-— **Principal**, Private School  
-
----
-
 ## 📰 Recent Blog Posts
 
 - **How Onsite Medical Services Improve Workplace Productivity**  

@@ -1,107 +1,98 @@
-🏥 Ayot Health Solutions Ltd.
-Innovating Health Systems for Optimal On-Site Care
+# 🏥 Ayot Health Solutions Ltd.
+### Innovating Health Systems for Optimal On-Site Care
 
-📍 Westlands, Nairobi — Kenya
-📞 +254 702 393 416
-📧 info@ayothealthsolutions.ke
+📍 **Westlands, Nairobi, Kenya**  
+📞 **+254 702 393 416**  
+📧 **info@ayothealthsolutions.ke**  
+🌐 **https://ayothealthsolutions.ke**
 
-🌐 https://ayothealthsolutions.ke
+---
 
-🚀 Who We Are
+## 🚀 Who We Are
 
-Ayot Health Solutions Ltd. is a Kenyan health innovation company transforming how healthcare is delivered in workplaces, schools, and community environments.
-We design and implement on-site medical systems, health technology platforms, and custom digital solutions that improve productivity, safety, and overall well-being.
+**Ayot Health Solutions Ltd.** is a Kenyan health innovation company transforming how healthcare is delivered across **workplaces**, **schools**, and **community environments**.
 
-We partner with organizations seeking:
+We design and implement:
 
-Secure, modern health systems
+- On-site medical systems  
+- Health technology platforms  
+- Custom digital health solutions  
+- Mobile and remote care models  
 
-Digital transformation in healthcare
+Our mission is to make healthcare **accessible, efficient, and data-driven** for organizations across Kenya.
 
-Reliable on-site medical services
+---
 
-Scalable solutions for schools & workplaces
+## 🩺 Our Core Services
 
-🩺 Our Core Services
-🏫 School Health Solutions
+### 🏫 **School Health Solutions**
+Supporting student well-being through:
+- Routine health screenings  
+- Mental health support  
+- On-site school clinics  
+- Emergency response services  
 
-Helping students stay healthy and engaged through:
+---
 
-Routine health screenings
+### 🏢 **Workplace Health Solutions**
+Helping organizations build healthier, more productive teams:
+- On-site workplace clinics  
+- Wellness & prevention programs  
+- Occupational health and safety services  
+- Employee health analytics  
 
-Mental health support
+---
 
-On-site school clinics
+### ⚙️ **Health System Innovation**
+Driving digital transformation in healthcare:
+- Custom health system design  
+- Digitization of patient records  
+- Deployment of mobile clinic units  
+- Data-driven care solutions  
 
-Emergency response services
+---
 
-🏢 Workplace Health Solutions
+## ⭐ Impact & Testimonials
 
-Empowering teams through:
+> “Ayot Health Solutions revolutionized our healthcare systems, enhancing data management and patient care.”  
+— **Operations Director**, Healthcare Facility  
 
-On-site workplace clinics
+> “They transformed our workplace health strategy. Employees are healthier and more productive!”  
+— **HR Manager**, Manufacturing Company  
 
-Wellness & prevention programs
+> “Our students now have access to quality healthcare on-site. A real game changer!”  
+— **Principal**, Private School  
 
-Occupational health and safety
+---
 
-Employee health analytics
+## 📰 Recent Blog Posts
 
-⚙️ Health System Innovation
+- **How Onsite Medical Services Improve Workplace Productivity**  
+- **Comprehensive School Health Programs in Kenya: A Guide for Institutions**  
+- **Top Workplace Health Solutions in Kenya: Enhancing Employee Well-being**  
 
-Accelerating digital health transformation with:
+*Read all posts on our website.*
 
-Custom health system design
+---
 
-Digitization of patient records
+## 💡 Ready to Transform Health in Your Workplace or School?
 
-Mobile clinic deployment
+👉 **Schedule a Consultation Today**  
+We are ready to support your organization with scalable, compliant, and innovative healthcare solutions.
 
-Data-driven care solutions
+---
 
-⭐ Our Impact
+## 📫 Connect With Us
 
-We deliver tailored, compliant, and cost-effective health solutions that enhance safety, productivity, and care outcomes.
+- **Facebook**  
+- **Twitter**  
+- **YouTube**  
+- **Instagram**
 
-Here’s what our partners say:
+---
 
-“Ayot Health Solutions revolutionized our healthcare systems, enhancing data management and patient care.”
-— Operations Director, Healthcare Facility
+## 🙋‍♂️ About This Profile
 
-“They transformed our workplace health strategy. Employees are healthier and more productive!”
-— HR Manager, Manufacturing Company
+This is the official GitHub profile of **Ayot Health Solutions Ltd.**  
+Our repositories showcase the technologies and digital health systems powering our on-site healthcare solutions.
 
-“Our students now have access to quality healthcare on-site. A real game changer!”
-— Principal, Private School
-
-📰 News & Updates
-
-Stay informed with our latest insights:
-
-How Onsite Medical Services Improve Workplace Productivity
-
-Comprehensive School Health Programs in Kenya: A Guide for Institutions
-
-Top Workplace Health Solutions in Kenya: Enhancing Employee Well-being
-
-Read all posts on our website.
-
-💡 Ready to Transform Health in Your Workplace or School?
-
-👉 Schedule a Consultation Today!
-We’re ready to support your organization with proven, innovative, and scalable health solutions.
-
-📫 Connect With Us
-
-Facebook
-
-Twitter
-
-YouTube
-
-Instagram
-
-🙋‍♂️ About This Repository
-
-This is the official GitHub profile of Ayot Health Solutions Ltd.
-Our repositories showcase the technology, systems, and digital health innovations that power our solutions.
